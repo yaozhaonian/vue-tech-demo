@@ -1,5 +1,5 @@
 # vue-tech-demo
-> English version please see [README‑en.md](./README-en.md)
+> English version please see [README-en.md](./README-en.md)
 
 > 技术演示项目：沉淀过往工作中的Vue3工程化实践、通用组件封装方案，无任何公司业务代码。
 
